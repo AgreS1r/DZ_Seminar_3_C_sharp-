@@ -1,0 +1,15 @@
+D:\C#\3dz\21zad\bin\Debug\net7.0\21zad.exe
+D:\C#\3dz\21zad\bin\Debug\net7.0\21zad.deps.json
+D:\C#\3dz\21zad\bin\Debug\net7.0\21zad.runtimeconfig.json
+D:\C#\3dz\21zad\bin\Debug\net7.0\21zad.dll
+D:\C#\3dz\21zad\bin\Debug\net7.0\21zad.pdb
+D:\C#\3dz\21zad\obj\Debug\net7.0\21zad.csproj.AssemblyReference.cache
+D:\C#\3dz\21zad\obj\Debug\net7.0\21zad.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\3dz\21zad\obj\Debug\net7.0\21zad.AssemblyInfoInputs.cache
+D:\C#\3dz\21zad\obj\Debug\net7.0\21zad.AssemblyInfo.cs
+D:\C#\3dz\21zad\obj\Debug\net7.0\21zad.csproj.CoreCompileInputs.cache
+D:\C#\3dz\21zad\obj\Debug\net7.0\21zad.dll
+D:\C#\3dz\21zad\obj\Debug\net7.0\refint\21zad.dll
+D:\C#\3dz\21zad\obj\Debug\net7.0\21zad.pdb
+D:\C#\3dz\21zad\obj\Debug\net7.0\21zad.genruntimeconfig.cache
+D:\C#\3dz\21zad\obj\Debug\net7.0\ref\21zad.dll
